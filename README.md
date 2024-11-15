@@ -1,3 +1,3 @@
 # example_repository
 
-Some new text. Edited on web.
+Some new text. Edited text on web.
